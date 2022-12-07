@@ -1,6 +1,6 @@
 # WebScraping - UN Population Data
 
-The blog post featuring the work here is found [at this link](https://adamiser.github.io/stat386-projects/).
+The blog posts featuring the work in this repository are found [at this link](https://adamiser.github.io/stat386-projects/).
 
 This Github repo explores the collection of data from [this website](https://population.un.org/dataportal).
 
