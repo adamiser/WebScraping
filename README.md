@@ -2,9 +2,9 @@
 
 The blog post featuring the work here is found [at this link](https://adamiser.github.io/stat386-projects/).
 
-This Github repo explores the collection of data from this website: https://population.un.org/dataportal.
+This Github repo explores the collection of data from [this website](https://population.un.org/dataportal).
 
-Their website features an interactive display to explore data on various characteristics of populations, such as fertility rate, life expectancy, net migration, etc. They also feature a public api to extract the raw data. This repo explores how to use this api to collect meaningful data which can then be used to perform your own analyses. The code is in part based on the instructions found on the website: https://population.un.org/dataportal/about/dataapi
+Their website features an interactive display to explore data on various characteristics of populations, such as fertility rate, life expectancy, net migration, etc. They also feature a public api to extract the raw data. This repo explores how to use this api to collect meaningful data which can then be used to perform your own analyses. The code is in part based on the instructions found on the [website](https://population.un.org/dataportal/about/dataapi).
 
 I use packages "requests", "pandas", and "matplotlib" in my python code.
 
